@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:24:11.552Z'
+datePublished: '2016-01-31T13:24:11.607Z'
 dateModified: '2016-01-31T13:24:09.069Z'
 title: Informatica
 author: []

@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:22:00.635Z'
-dateModified: '2016-01-31T13:21:28.797Z'
+datePublished: '2016-01-31T13:24:11.523Z'
+dateModified: '2016-01-31T13:24:09.069Z'
 title: Informatica
+author: []
+sourcePath: _posts/2016-01-31-informatica.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-01-31-informatica.md
-published: true
 url: informatica/index.html
-_type: WebPage
+_type: Article
 
 ---
 Informatica

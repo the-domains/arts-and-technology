@@ -4,7 +4,7 @@
         <description><![CDATA[Arts & Technology]]></description>
         <link>https://thegrid.ai/arts-and-technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 13:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 13:24:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arts-and-technology/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Waarom?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/arts-and-technology/waarom/index.html</link>
             <guid isPermaLink="false">a1d0f012-c79a-4266-a8d6-27663109ea27</guid>
             <pubDate>Sun, 31 Jan 2016 13:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Informatica]]></title>
+            <description><![CDATA[<h1>Informatica</h1>]]></description>
+            <link>https://thegrid.ai/arts-and-technology/informatica/index.html</link>
+            <guid isPermaLink="false">6b8c553d-2bfd-4268-8498-893d7d8870eb</guid>
+            <pubDate>Sun, 31 Jan 2016 13:24:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glen Keane - Step into the Page]]></title>
